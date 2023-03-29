@@ -1,0 +1,385 @@
++-------------------------------------------ÄÄÄÄÄÄÄÄ-----ÄÄÄÄÄÄÄÄ----+
+| This VENDINFO Product Information File contains both readable text |
+| and tools-accessible data about a product.  See the last text      |
+| section, below, for more information about VENDINFO and its tools. |
++--------------------------------------------------------------------+
+VENDINFO standard v1.04, produced by VendEdit v1.30, 2-Jan-1996
+
+===== Product Information ==============================
+   Product:             VIRUS:  The Game Windows Action Puzzle Game
+   Version:             1.20
+   Version Date:        1-Jan-1996
+   Product Type:        Software
+   Basic Distribution Policy (see License, below, for details):
+      Shareware, freely distributable by all channels
+
+   Product Description: VIRUS: The Game v1.2 <ASP>. Fun, challenging,
+                        and addictive puzzle-arcade game for windows.
+                        This knuckle banging, joint challenging game 
+                        is NOT for the faint of heart. YOU are the 
+                        Virus ("the Bad Guy"). Run reclessly about 
+                        the surface of a hard drive and collect 
+                        bytes. Avoid the anti-virus disk and other 
+                        nasties. Req: 386+; Win 3.1, Win95, or OS/2 
+                        Warp; 256 VGA; 4MB RAM; Mouse or Joystick; 
+                        Sound Card (optional, but recommended).
+   Reason for version:  Minor bug fixes.
+
+   Category:            Games; Arcade games
+   Keywords:            Game Arcade Sound Windows DynoTech Virus Fun 
+                        Win95 Joystick
+   Required Packages:   VIRUS
+   This Package:        VIRUS
+   Registration Fee:    20.00 (US dollars)
+
+   Required Configuration
+      Processor Family: Intel 80x86 (minimum 80386)
+        Clock Speed: 20 MHz
+      Minimum OS:       MS-DOS 3.3
+      Standard RAM:     640K
+      Extended Memory:  3456K
+      Hard Drive Space: 5000K
+      Required:
+         Hard drive
+         Video Graphics Array (VGA)
+         Color monitor
+         Keyboard
+         Mouse
+      Won't Work With:
+         Floppy only
+         Monochrome Display Adapter (MDA)
+         Hercules Graphics Card
+         Color Graphic Adapter (CGA)
+         Enhanced Graphic Adapter (EGA)
+         Multi-Color Graphics Array (MCGA)
+         Monochrome monitor
+      Other Require:    Tested and certified by NTSL (December 1995) 
+                        as "Ready for OS/2 Warp." 
+
+   Orders:
+      Address:          DynoTech Software
+                        1105 Home Avenue
+                        Waynesville, MO  65583-2231
+      Toll-Free Phone:  (800) 396-6832
+      Phone:            (573) 774-5001
+      FAX:              (573) 774-3052
+      BBS Name:         Dad's Computer BBS
+      BBS Phone:        (573) 774-5907
+      AmOnLine:         DT Games
+      CompuServe:       71373,572
+      Internet:         DTGames@aol.com
+      Other E-mail:     dynotech@msn.com
+
+   Support:
+      Address:          DynoTech Software
+                        PO Box 4188
+                        Waynesville, MO  65583-4188
+      Phone:            (573) 336-3390
+      FAX:              (573) 774-3052
+      BBS Name:         Dad's Computer BBS
+      BBS Phone:        (573) 774-5907
+      AmOnLine:         DT Games
+      CompuServe:       71373,572
+      Internet:         DTGames@aol.com
+      Other E-mail:     dynotech@msn.com
+
+
+===== Information for Users ("READ-ME") ================
+
+This package contains VIRUS: The Game v1.2 <ASP>, by DynoTech Software.
+This document contains a brief description of the package and its
+features, along with instructions for its installation.  Detailed
+documentation is included in the package, but it is in archived form, and
+is more easily read after installation.
+
+
+*************
+  A REQUEST
+*************
+We would appreciate copies of anything you publish concerning this
+software.  Please send us a copy of any reviews, articles, catalog
+descriptions, or other information you produce or distribute regarding
+this software product.
+
+
+Address:  DynoTech Software
+          1105 Home Avenue
+          Waynesville, MO 65583-2231
+
+E-Mail:   DTGames@aol.com
+          dynotech@msn.com
+          71373.572@compuserve.com
+
+FAX:      (573) 774-3052
+
+BBS:      (573) 774-5907
+
+
+******************************************
+  Association of Shareware Professionals
+******************************************
+
+DynoTech Software is a member of the Association of Shareware
+Professionals (ASP).
+
+If you have a question about VIRUS:The Game, write to:
+
+       DynoTech Software
+       1105 Home Ave
+       Waynesville, MO  65583-2231 USA
+
+       FAX:  (573) 774-3052
+       Technical Support:  (573) 336-3390
+       E-Mail:  dynotech@msn.com
+
+   or send a CompuServe message to DynoTech Software 71373,572.
+
+
+  ASP wants to make sure that the shareware principle works for you.
+  If you are unable to resolve a shareware-related problem with an ASP
+  member by contacting the member directly, ASP may be able to help.
+  The ASP Ombudsman can help you resolve a dispute or problem with an
+  ASP member, but does not provide technical support for members'
+  products. Please write to:
+
+      ASP Ombudsman
+      545 Grover Road
+      Muskegon, MI 49442-9427 USA
+
+      FAX 616-788-2765
+
+      or send a CompuServe message via CompuServe Mail to
+      ASP Ombudsman 70007,3536.
+
+
+===== Packing List =====================================
+
+As released by the author or publisher, this package contained the
+following files in addition to this VENDINFO.DIZ:
+
+        Filename      Size     Date       Time     CRC32
+     OMBUDSMN.ASP     1966   1-Jan-1996  01:20a   CEAE3FF9
+     DYNOTECH.BMP     2126   1-Jan-1996  01:20a   29033772
+        SETUP.CFG     1200   1-Jan-1996  01:20a   B0E47D3F
+      FILE_ID.DIZ      441   1-Jan-1996  01:20a   E4C5EED2
+     VENDINFO.DOZ   207909   1-Jan-1996  01:10a   130D305C
+        SETUP.EXE   117760   1-Jan-1996  01:20a   B8387EFF
+          VBX.SHR   307768   1-Jan-1996  01:20a   7427DCF8
+        VIRUS.SHR   652502   1-Jan-1996  01:20a   009DCA4A
+       README.TXT     1062   1-Jan-1996  01:20a   0DAD0053
+
+
+===== Installation =====================================
+
+From windows program manager, select RUN and enter A:SETUP or B:SETUP.
+Follow the directions on the screen.
+
+The setup program will install "VIRUS: The Game" to your hard drive to
+the drive and directory you indicate.  It also will create a DynoTech
+folder on your program manager and insert appropriate icons.
+
+
+===== Warranty =========================================
+
+LIMITED WARRANTY (SHAREWARE EDITION)
+
+The evaluation ("shareware") version of "VIRUS: The Game" is provided on
+an "as is" basis.
+
+LIMITED WARRANTY (REGISTERED EDITIONS)
+
+Standard and Champion Editions of this program are warranted by DynoTech
+Software to be free from defects in materials or workmanship for a
+period of 60 days from the date you purchased them. If you notify
+DynoTech Software within the warranty period of such defects in
+materials or workmanship, DynoTech Software will replace the defective
+diskette.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DYNOTECH SOFTWARE
+DISCLAIMS ALL WARRANTIES RELATING TO THIS SOFTWARE, WHETHER EXPRESSED
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  NEITHER DYNOTECH
+SOFTWARE NOR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION,
+PRODUCTION, OR DELIVERY OF THIS SOFTWARE SHALL BE LIABLE FOR ANY
+INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES ARISING OUT OF THE USE
+OR INABILITY TO USE SUCH SOFTWARE, EVEN IF DYNOTECH SOFTWARE HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR CLAIMS.  IN NO EVENT
+SHALL DYNOTECH SOFTWARE'S LIABILITY FOR ANY DAMAGES EVER EXCEED THE
+PRICE PAID FOR THE LICENSE TO USE THE SOFTWARE, REGARDLESS OF THE FORM
+OF THE CLAIM.  THE PERSON USING THE SOFTWARE BEARS ALL RISK AS TO THE
+QUALITY AND PERFORMANCE OF THE SOFTWARE.
+
+This agreement shall be governed by the laws of the State of Missouri
+and shall inure to the benefit of DynoTech Software and any successors,
+administrators, heirs and assigns.  Any action or proceeding brought by
+either party against the other arising out of or related to this
+agreement shall be brought only in a COURT of competent jurisdiction
+located in Pulaski County, Missouri.  The parties hereby consent to in
+personam jurisdiction of said courts.
+
+If you have any questions concerning this Agreement, or wish to contact
+DynoTech Software for any reason, please write to:
+
+    DynoTech Software
+    1105 Home Avenue
+    Waynesville, MO 65583-2231
+
+
+===== License for Use and Distribution =================
+
+LICENSE TERMS APPLICABLE TO ALL USE OR DISTRIBUTION
+
+"VIRUS: The Game" and all associated software and documentation are
+copyrighted products of DynoTech Software and are protected by United
+States copyright law and also by international treaty provisions.
+
+All rights not expressly granted here are reserved to DynoTech Software.
+The use or distribution of these products is expressly prohibited, except
+as authorized by the terms of this agreement.
+
+You may not use, copy, rent, lease, sell, modify, decompile, disassemble,
+otherwise reverse engineer, or transfer the licensed program except as
+provided in this agreement.
+
+U.S. Government Restricted Rights:  Use, duplication, or disclosure by
+the U.S. Government of the computer software and documentation in this
+package shall be subject to restrictions as set forth in subdivision
+(b)(3)(ii) of the Rights in Technical Data and Computer Software clause
+at 252.227-7013 (DFARS 52.227-7013).  Manufacturer is DynoTech Software,
+1105 Home Ave, Waynesville, MO  65583-2231.
+
+
+LICENSE TERMS APPLICABLE TO TRIAL USE OF EVALUATION VERSION
+
+DynoTech Software grants you a limited license to use this software for
+evaluation purposes for a period not to exceed thirty days.
+
+
+LICENSE TERMS APPLICABLE TO USE OF REGISTERED VERSION
+
+The software and the disks on which it is contained are licensed on a
+non-exclusive basis to you, the purchaser, for your own use.  You are not
+obtaining title to the software or any copyright rights.
+
+You may use the licensed software on a single personal computer system,
+and make as many copies as needed for backup and archival purposes. If
+you need to use these products on more than one computer, please contact
+us concerning site licenses.
+
+
+LIMITED DISTRIBUTION LICENSE
+
+Permission is granted to individuals charging no fees, and to BBS's, User
+Groups, Mail-Order Disk Vendors, CD-ROM publishers, and BBS
+File-Distribution Networks regardless of fees, to distribute BOXES,
+provided they convey a complete and unaltered copy of the shareware
+version of this product (except that they may add a single information
+file or "ZIP" comment to the files being distributed), and provided they
+claim no ownership of these products.
+
+Distribution by other channels, and distribution of modified versions,
+are also allowed, but only under the terms of the attached VENDINFO data
+record, which is hereby incorporated by reference.  Any distribution
+satisfying all the distribution requirements expressed in that data
+record is hereby authorized.
+
+Permission to distribute these products is not transferable, assignable,
+saleable, or franchisable.  Each vendor wishing to distribute these
+products must independently satisfy the terms of this limited
+distribution license.
+
+DynoTech Software may revoke any permissions granted here, by notifying
+you in writing.
+
+
+LICENSE AGREEMENT FOR REGISTERED VERSIONS
+
+This agreement is a legal contract between you, the end user, and
+DynoTech Software governing your use of this software. Using the software
+indicates your acceptance of this agreement. This agreement shall also be
+binding on any subsequent, authorized licensee.
+
+1.  DynoTech grants you the right to use one copy of the Software on a
+single-user computer, or on a single terminal or workstation of a
+multi-user computer or local area network. You may not use it on more
+than one computer or terminal at the same time.
+
+2.  You may not sublicense, rent or lease the Software. You may
+permanently transfer your license to use the Software and accompanying
+materials by delivering to another party the original diskette(s) and
+materials comprising the software package, and by simultaneously
+destroying all copies of the Software and accompanying materials in your
+possession (including, but not limited to, any previous versions). Such
+transfer terminates your license to use the Software. The new recipient
+of the Software accepts this Agreement and is licensed under the terms of
+this Agreement upon initially using the Software.
+
+3.  DynoTech further grants you the right to make as many backup/archival
+copies of the software diskette(s) you feel are necessary to safeguard
+your investment.  You may place the software on a hard disk, provided you
+keep the original software solely for backup or archival purposes. You
+may not decompile, disassemble, reverse engineer, copy, transfer, or
+otherwise use the Software except stated in this Agreement.
+
+
+===== About VENDINFO Files =============================
+
+Each VENDINFO.DIZ file contains extensive information about a product.
+This "human-readable" section is followed by a compressed data record
+useable by automated tools.  The data record allows BBSes and other
+distributors to automate package handling, and provides users with a
+wealth of product information.  VENDINFO tools (free viewer for users,
+free or inexpensive processors for distributors, editors for authors)
+are available from many sources, including the originators of VENDINFO:
+  Rams' Island Software    Voice: 303-841-2848  CompuServe: 76244,324
+  7644 E. Lakecliff Way      BBS: 303-841-6269     FidoNet: 1:104/333
+  Parker, CO 80134-5904 USA  FAX: 303-841-6269        RIME: 1235
+
+
+===== Compressed Data Record Follows ===================
+
+PK
+   ,°" ßø
+²œ  ú4  	   VENDDATA.…G
+
+	
+	
+	
+
+
+
+
+•
+
+	&	'&'
+
+/
+
+$
+?
+_ß
+?
+o	
+ï
+	
+
+
+oo	
+
+o
+
+	O	/	/			/%$%6&
+	.NX!$G§—‘bæäåÆÈ	âøñâ6ï„å?Àû÷HÁj€ytßÁ
+¸x	î»,Ì`‡ì€
+RÄ;R^Väv¬ÿ3ïç_µÇ:ÄˆçÑÜ“Ößi-ç~üìj¸pu²ñÓâÉìëG9}ûÕ´Ÿ~†òÖb§”|â&”XB,·‡[`PÙ…¡²Î~ò¹U×éÔ)- òÆB°òÏ?w(çğygk]Mœu²pü£ÓÎt*½–Õl7Ö°W-ìÇU¯'ş´·üe¯¨ÌxAÿòŒ«ùÓª‰Åå¿“¼ŸMÙôßª¿ëxÛúÃøç‘şZÖikjqğáOä¬¶Z
+‚äcıÕ£ä·Øÿ´óH+©¨ã_Íæ)’'¿ŸÂš~±¦§éİt.?É-½¸¢2³q®?õ¨¶R•ıŒËpÿ²ŸÇÂ:Gw**­>7'“ğeÓ/¦»§ÿÆ»¶¥øg½@õÇ½AœĞÿ(JQEeV'JèF•ãâi	Æ²;,ùˆŸÓ=ù¯-Å9#`1ô‰/¦Oò:šøi7r"ÿksTTBÛü²r¨[dçWËKzõøÛã×Ç~eìÕ¥¢Òè®Õ-ıj=Î{ıÆµ5s#Ì‚f[;DŞ‚úŒÄX/gµÚ½åœZÇ²Õ:;Ìo•Çµ.§Ö5	ßB„¨¨ˆ†ş'ÃÁ”ß±‹|ºH”½º>¦Ü=‘ó[©¡WT¶÷ªòeËövïU/ñW/°Ù½V{Gó5K=CÒ0èO¨ŠJÃ **;ñº8T	‹iÚÛ~z=‘5ÔOâê/F8^€OÕîãª¢2©q‚ä¯~Ö8ôù}W«ñWÍxßËİ¼ªıªÙĞ…Òáÿ{5­¡²óé$¿c©ÚÚîàçx¡,¿ş’_½XO~!}WÛ³Î¡,]ßÖê)ä¹¹VVrkmf}i\HÍJı‰rê¤siìš‘uÙNW•5,7’òûÎmEemO¦ÌêÊÑû‚‘YëW+•TÍå*c¯e¬NvÎŞªW×…æ½Œ®Ó? É¿x†‹’|Öªµß6·¿ ·znÖ¾¬’î¿0;²«¦I5ãè[¾¤ÇUzğ)Ş&\=»¦€Åäîèíá=ŞNnç+*½YQ|n7n7Â¼Åå6Î´Z'²‚éz·»°ıŠ{ÃÁ^¤pyÖÍ£XıË›ïrú¤smxñ.xé‰æÔLE¥j²×úOÖd¯Ö¶£tÿ
+C^	£Åp?4ËzšwÙøéÛ^ûûáBü¥jƒÂÅ“]¿®‹Ñ——ÂŞíéUîØÿZ—¬\tg=Ë•*mV[héÛO©_R^½x{XÎ¿+ô%]¾¿…å¸Z$B>S_w²¹ŠJÚ³'„şY?—D¹,jì¿õ¶ÅQØ¨¡¢®$RãÄ¯ŞTQ ¬¨LU9]Ä(NR£\#%p®ŠíÛ¸h²‹O¢)®‰º„Hñ"w€óéÛCO–Rçê©@\=¥€¾”åÊ	hz?Ò¼œX*ªä-°!Çó&ğï>ˆ$‡
+÷+î;¤†B¯¡Ã‚?!’øĞTG¤„ %&«øh™„ñâÅgğñ$ˆ7^üøñï„x3	ÆMˆ2Çöi,!mÊ‰»ü‰+ï¡Nü¹™í¨¿¬àµ^-ÃN~ÚíKíuË³ŞÕLô•ÅâË]ÜÒ~À¤ŞAØÚ=Ë:îç¸ƒôÄ…f†1®¡UAâ±g>!iÁ­x³»§‘Èã‚úëŠø€æ0~Á•|*›8HP³¾Ëö¾$K³%f:ôİ)KBzÕi&â•x¼5ùÄ.ùQrş‡½ñ|2Ñıÿ/0šgxÙ°?.ıışh>œÍ@°µÉüx6œ˜Ì8Í\Mâ÷ZJ•ˆß¢"1,"Ù¢;ë“•ÿf-Tq™ÆDY)¾?÷Ç%ÃşÄË)Èä<¡]{½‚¿†[C3_,óĞjëÁ{={ ¥/)Å‹Á·öâjjì”jFl¨V²Å ¨’næ#íğ[`Ë(ëÍf¥ÜÌ½±ª£ô”vsÆ
+û¸İ#İ òƒ¨Dûµª»E×ÁIx–svÃü³Şt8íÍF€œ;­£ø‚òı‘§Ü~)è¨`…}ßÃÂDjÓñŒ–v-¥ş–§‹çúìÈ³[ü‹Ş"çÍß®”ÆÙRE@àÎİûÍØó§Ã™î„_vÄKãÎsg¥ù¦î×¶Ú—#âØÎÜ%˜ìœ_´‡òGÓ„Œw—°\KaŒÇƒùxÜKæl8ÚÅøú9Gı<X ÿ_+>–ırêªrWz©0«äÿÜÇ„yj,¦9E×æ,{nrÚÓ-°õßã¢^”—ŸŒƒ6,D¯äë¬_º”1^ŞĞ_ÛtmT©–H&TÁwxóŞü7àm1â¾Õaim>êGqG+›ÏÏùÙ…s²¢ àcÕ ’]ø™÷vcOIaÁŸ¯ö=ÕŒfV‡°
+=½I_‡ğ±G—õgb„öH;3™zó^f²Néİ 	 Y-€dÁÒá×à ùPÌ´Á"aGúíªŸ3ê¹/é‡—9ÌMÃUQµ™öÄ3TÙ2­%0¾îşN¹×d¨ËS_TË€ş‚ÓÜvÄÿ'³=!¡¹™Õ‰š×¡¦`H oé8ƒéŸüá´;šŒÇ&&?0YŠUª¥¬\¾I{$–x5çUÆo#@îm¶õÂ‚H’VşüZFtÛÖl]ÊÖBíÀK{1†|ÜÏ0  Îûƒioø£y w«60œ3+J'7 Zµö0êÎËf¥óşd:ïö'“Ñ|frf"‹ÉHµÀÃMûm@äçŸCÓ<}Ãhİ˜3_wl˜Ã‚Ã6´Ëšv}r0•şá¤;Ÿ´º¦ôù`q´«B´tq<”=|ŠöFİÈ·:¥.“İ.üãÙ¸„†>¶“ƒqöÿİŞÊ-d6Î{“ùáiüÁl¦Zä­Z yTè'ªu>ĞÌæéÃøüe\¶|$şÑŞq<*òyyy]:¹¸äUùó‡¦=^ô_VØ&	b^f'jJ·M»¿ÛıÑ`Ğ#­2™uEÒ!¾xp\òKãSÚg:f³Ê*Ê‡šÕ©Š±]Gë\[»/õjp®o×cœiÕ·í–§?í–ünPR~ù¨_‡@Mq(—ª÷¢ê;öõwÎí±XÑÉÊ™›™—‹)‚E&Ãùt2˜™­Z€…áTÑšõ¨ ¯Ÿ-p:/J'üº4‹©íT³°Mt71{ò%AZ?ûÙÛÕ¸¾ÏTaø˜…ÑVÌìÈEQó
+­ÜBFnáq¿;ê‚!€±Ç:²õÌØ®LË¼åÕ~˜ÓÑlÈ…Ç¦èñ°?òLEßáyïGÉÏõƒQŸŒ‡s©YÕB/xàÓ&ƒ‘juÒ•	l”ÆÇ_IÎÊì·+Àí4±”­r:›Z9™¹/gum^õ;ÁÂ"s"gFÿYy…m“şÔÊûı^×d¦7rq”,Wªxäã\^óGÇ¿ÉBe6ŞÏlğr_©hg_Ûràroœ)¿,r4ú•“Ö¢êYoúıª‹ğµ¥>Læõ«eï¼,{( ĞolÅ.W:-ó&è+³ÚÎœ~/zxS¾ÌÍÚÉ-ÀA0¾×ëşá`ô0¢2YÿdJ]µ÷ï˜ğÎ– ß\)Ö#X„!ƒÿ¾!Ş}„Å—$4' ¡Ñ{DXfÊ ÎêB
+¢{ÿÙgêïàIïiÛU+ùyGË*‹$agÂí†;n:şíë$„#ºZ„d+B‚Ñpˆ—üÜß“ül6ş?r»cŒœL'^œ»½ùh4ìšÌM&½ù°×ï
+h+Pò|†ñ<š{R»!ÛRMóQï£ƒ÷ùÍlØù(PáÙÃïvØ½Nh/ŞÉÎ†}şø¬æäegséYÜÂ˜·•[Bœñø÷ú„ì?8ŞÃ¾É,£Øßj‰6pPK
+ 
+   ,°" ßø
+²œ  ú4  	                 VENDDATA.PK      *   Ã    
